@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Intens</string>
+    <string name="nama_resep">Nama Resep</string>
+    <string name="deskripsi_resep">Deskripsi Resep</string>
+</resources>
